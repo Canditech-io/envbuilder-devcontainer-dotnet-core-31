@@ -1,0 +1,11 @@
+{
+  "name": "dotnet-core-3.1-dev",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "settings": {},
+  "extensions": [
+    "ms-dotnettools.csharp"
+  ]
+}
+
